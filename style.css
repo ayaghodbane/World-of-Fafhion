@@ -1,0 +1,161 @@
+#website_header {
+	background-image: url('images/pp.jpg');
+    background-position:left; ;
+	color: white;
+	font-size: 55px;
+	font-style: italic;
+	text-align: center;
+	font-family: tahoma;
+	padding: 70px;
+
+}
+/*--navbar--*/
+.navbar {
+	font-family: tahoma;
+	font-style: italic;
+}
+.navbar ul{
+	list-style-type: none;
+}
+.navbar ul li{
+	display: inline;
+	margin-left: 170px;
+	color: black;
+}
+
+
+
+.website_header {
+	color: purple;
+	font-size: 35px;
+	font-style: italic;
+
+}
+/*--about--*/
+.about {
+	padding: 80px;
+}
+.about p{
+
+	width: 500px;
+	padding: 20px
+	margin: 5px;
+	font-family: tahoma;
+	font-style: inherit;
+	font-size: 30px;
+	float: right;
+	
+
+}
+.about p span {
+	display: block;
+	font-family: cursive;
+	font-size: 40px;
+	color: grey;
+	border-bottom: solid thin red;
+	text-transform: uppercase;
+	width: 150px;
+	margin-bottom: 30px;
+	
+}
+.about img{
+	width: 500px;
+	height: 500px;
+	box-shadow: 10px 0 10px black;
+}
+/*--services--*/
+.services{
+	padding: 80px;
+}
+.services p{
+	width: 500px;
+	padding: 20px
+	margin: 5px;
+	font-family: tahoma;
+	font-style: inherit;
+	font-size: 30px;
+	float: left;
+	
+}
+.services p span {
+	display: block;
+	font-family: cursive;
+	font-size: 40px;
+	color: grey;
+	border-bottom: solid thin red;
+	text-transform: uppercase;
+	width: 210px;
+	margin-bottom: 30px;
+}
+.services img {
+	width: 400px;
+	height: 500px;
+	box-shadow: 10px 0 10px black;
+    margin-left: 200px;
+}
+/*--our-works--*/
+.our-works{
+	padding: 80px;
+}
+.our-works p{
+	width: 500px;
+	padding: 20px
+	margin: 5px;
+	font-family: tahoma;
+	font-style: inherit;
+	font-size: 30px;
+	float: left;
+
+}
+.our-works p span{
+	display: block;
+	font-family: cursive;
+	font-size: 40px;
+	color: grey;
+	border-bottom: solid thin red;
+	text-transform: uppercase;
+	width: 240px;
+	margin-bottom: 30px;
+
+}
+.the-shoes{
+	font-size: 50px;
+	font-family: tahoma;
+	font-size: 15px;
+	
+}
+table{
+	padding: 2px;
+	padding-top: 10px;
+	padding-left:80px;
+}
+
+td{
+	padding: 20px;
+
+}
+caption {
+	font-size: 50px;
+	font-family: tahoma;
+
+
+}
+.Contact-us{
+	padding: 80px 0;
+}
+.Contact-us .item{
+	width:50%;
+	height: 60px;
+	font-size: 20px;
+	box-shadow: 0 0 10px black;
+	margin-left: 10%;
+	text-align: center;
+	font-family: cursive;
+	padding-top: 20px;
+	border-radius: 10px;
+	color:black;
+}
+
+
+
+
