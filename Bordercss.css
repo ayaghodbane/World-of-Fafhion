@@ -1,0 +1,56 @@
+ .titre_sec
+{
+	color:purple;
+	text-decoration: underline;
+}
+ 
+li span{
+font-weight:bold;
+}
+p
+{font-size:20px;
+font-family:comic sons ms;
+text-align:justify;
+margin:top
+}
+
+
+ul
+{
+    border: 3px gray solid;
+box-shadow: 3px 3px 2px black;
+ border-radius: 10px;
+    
+}
+
+
+a:hover{
+font-style:italic;
+color:green;} 
+nav {display:inline-block;
+vertical-align: top;
+border: 1px  solid gray;
+padding: 5px;
+width: 10%;}
+section {
+display:inline-block;
+vertical-align: top;
+border-left: 1px  solid gray;
+width: 20%;
+padding: 5px;
+margin: 5px;}
+header{
+text-align:center;
+background-color: #B87070;
+color:#504444;
+Height: 90px;
+text-shadow: 1px 1px 2px black;
+}
+img{
+border: 1px  solid black;
+box-shadow: 2px 2px 2px black;}
+footer{text-align:center;}
+@media all and (max-width:1024px){
+section{
+display:inline-block;
+width: auto;}
